@@ -3,8 +3,10 @@
  *  Copyright 2021 Hamza Iqbal
  */
  
+
 import java.util.Scanner;
-class CurrencyExchange
+
+public class Main
 {
    double currency;
    double rate;
